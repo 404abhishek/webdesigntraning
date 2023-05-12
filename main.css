@@ -1,0 +1,26 @@
+body
+{
+    background-color: azure;
+}
+.headingdiv
+{
+width: auto;
+padding: 15px;
+
+font-size: 15px;
+color: whitesmoke;
+text-shadow: 1px;
+background-color: #009688;
+}
+h1:hover
+{
+color: black;
+}
+.card
+{
+   
+    padding-inline: initial;
+    width: 474px;
+    border-radius: 5%;
+    border: 12px solid black ;
+}
